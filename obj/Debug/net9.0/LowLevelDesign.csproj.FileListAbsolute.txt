@@ -1,0 +1,14 @@
+/Users/saquibanwar/Documents/Projects/C# Test/LowLevelDesign/LowLevelDesign/bin/Debug/net9.0/LowLevelDesign
+/Users/saquibanwar/Documents/Projects/C# Test/LowLevelDesign/LowLevelDesign/bin/Debug/net9.0/LowLevelDesign.deps.json
+/Users/saquibanwar/Documents/Projects/C# Test/LowLevelDesign/LowLevelDesign/bin/Debug/net9.0/LowLevelDesign.runtimeconfig.json
+/Users/saquibanwar/Documents/Projects/C# Test/LowLevelDesign/LowLevelDesign/bin/Debug/net9.0/LowLevelDesign.dll
+/Users/saquibanwar/Documents/Projects/C# Test/LowLevelDesign/LowLevelDesign/bin/Debug/net9.0/LowLevelDesign.pdb
+/Users/saquibanwar/Documents/Projects/C# Test/LowLevelDesign/LowLevelDesign/obj/Debug/net9.0/LowLevelDesign.GeneratedMSBuildEditorConfig.editorconfig
+/Users/saquibanwar/Documents/Projects/C# Test/LowLevelDesign/LowLevelDesign/obj/Debug/net9.0/LowLevelDesign.AssemblyInfoInputs.cache
+/Users/saquibanwar/Documents/Projects/C# Test/LowLevelDesign/LowLevelDesign/obj/Debug/net9.0/LowLevelDesign.AssemblyInfo.cs
+/Users/saquibanwar/Documents/Projects/C# Test/LowLevelDesign/LowLevelDesign/obj/Debug/net9.0/LowLevelDesign.csproj.CoreCompileInputs.cache
+/Users/saquibanwar/Documents/Projects/C# Test/LowLevelDesign/LowLevelDesign/obj/Debug/net9.0/LowLevelDesign.dll
+/Users/saquibanwar/Documents/Projects/C# Test/LowLevelDesign/LowLevelDesign/obj/Debug/net9.0/refint/LowLevelDesign.dll
+/Users/saquibanwar/Documents/Projects/C# Test/LowLevelDesign/LowLevelDesign/obj/Debug/net9.0/LowLevelDesign.pdb
+/Users/saquibanwar/Documents/Projects/C# Test/LowLevelDesign/LowLevelDesign/obj/Debug/net9.0/LowLevelDesign.genruntimeconfig.cache
+/Users/saquibanwar/Documents/Projects/C# Test/LowLevelDesign/LowLevelDesign/obj/Debug/net9.0/ref/LowLevelDesign.dll
